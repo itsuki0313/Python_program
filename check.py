@@ -12,7 +12,7 @@ def main():
 
     cv2.imwrite("lena.jpg", th2)
 
-    cv2.imshow('lena',th2)
+    cv2.imshow('check',th2)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
